@@ -1,0 +1,1 @@
+# Comparison-of-Different-Methods-of-Wind-Speed-Power-Generation-Forecasting
